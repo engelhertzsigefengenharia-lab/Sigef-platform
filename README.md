@@ -2,6 +2,48 @@
 
 Base oficial de documentação do projeto SIGEF.
 
+sigef-platform
+
+│
+
+README.md
+
+│
+
+excel/
+
+│
+
+database/
+
+│
+
+dashboard/
+
+│
+
+rules-engine/
+
+│
+
+reports/
+
+│
+
+tests/
+
+│
+
+drawio/
+
+│
+
+docs/
+
+│
+
+assets/
+
                     ENGELHERTZ LAB
 
                             │
@@ -23,3 +65,5 @@ SOP                                    Dashboard
 Artigos                                Motor de Regras
 
 Arquitetura                            Relatórios
+
+
