@@ -1,6 +1,6 @@
-## SIGEF Engenharia - Knowledge Base
+## SIGEF Engenharia - Sigef-platform
 
-Base oficial de documentação do projeto SIGEF.
+Base platform do projeto SIGEF.
 
 sigef-platform
 
